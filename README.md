@@ -29,10 +29,13 @@ To work or modify project/Code for yourself:
 
 **Steps 1**
   Clone the repository to your local system or download the complete folder.
+  
 **Step 2** 
   Install all dependencies to your system with npm i.
+  
 **step 3**
   Go to your localhost:3000 on your chrome or any other browser
+  
 **step 4**
   For any assistence or help kindly contact @ajaybabupatel2000@gmail.com
   
